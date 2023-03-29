@@ -1,7 +1,7 @@
 {
-  "account"   : "",
+  "account"   : "pmazzette",
   "user"      : "admin",
-  "password"  : "",
+  "password"  : "TestPassword2",
   "role"      : "ACCOUNTADMIN",
   "warehouse" : "",
   "database"  : "",
