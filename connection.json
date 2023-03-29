@@ -1,8 +1,8 @@
 {
-  "account"   : "",
-  "user"      : "",
-  "password"  : "",
-  "role"      : "",
+  "account"   : "pmazzette",
+  "user"      : "admin",
+  "password"  : "TestPassword2",
+  "role"      : "ACCOUNTADMIN",
   "warehouse" : "",
   "database"  : "",
   "schema"    : ""
